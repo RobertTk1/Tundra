@@ -14,7 +14,7 @@ html {
 .navbar {
   padding: 0.1rem;
   opacity: 0;
-  animation: nav-animation 0.6s forwards 0.5s linear;
+  animation: nav-animation 0.6s forwards 0.3s linear;
 }
 @keyframes nav-animation {
   0% {
@@ -43,8 +43,18 @@ html {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
+  animation: caption-anime 1.5s forwards 0s linear;
 }
 
+@keyframes caption-anime {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    transform: rotate(xx);
+    opacity: 1;
+  }
+}
 .carousel-caption h1 {
   font-size: 500%;
   text-transform: uppercase;
