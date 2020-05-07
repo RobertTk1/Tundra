@@ -7,6 +7,10 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .navbar {
   padding: 0.1rem;
 }
@@ -146,6 +150,10 @@ hr.light {
   width: 75%;
   margin-top: 0.8rem;
   margin-bottom: 1rem;
+}
+
+#Connect {
+  margin-bottom: 2.5rem !important;
 }
 
 /*---Media Queries --*/
