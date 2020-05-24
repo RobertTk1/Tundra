@@ -1,0 +1,24 @@
+{
+  "name": "bs4-practice1",
+  "version": "1.0.0",
+  "description": "This is a responsive Business Website, it was built using Bootstrap 4, HTML5 and CSS3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertTk1/Responsive-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertTk1/Responsive-website/issues"
+  },
+  "homepage": "https://github.com/RobertTk1/Responsive-website",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
