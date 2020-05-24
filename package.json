@@ -4,8 +4,7 @@
   "description": "This is a responsive Business Website, it was built using Bootstrap 4, HTML5 and CSS3",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d tundra"
   },
   "repository": {
     "type": "git",
