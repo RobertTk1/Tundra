@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RobertTk1/Responsive-website.git"
+    "url": "git+https://github.com/RobertTk1/Tundra.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RobertTk1/Responsive-website/issues"
+    "url": "https://github.com/RobertTk1/Tundra/issues"
   },
-  "homepage": "https://github.com/RobertTk1/Responsive-website",
+  "homepage": "https://github.com/RobertTk1/Tundra",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
